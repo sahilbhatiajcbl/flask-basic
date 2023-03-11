@@ -1,0 +1,2 @@
+docker start <container_name>
+flask --app main.py run 

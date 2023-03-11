@@ -1,0 +1,20 @@
+{
+    "orderID": "FEB2023001",
+    "escID": "FEB2023001ESC001",
+    "status": "OPEN",
+    "priority": "HIGH",
+    "escSRC": "Inbound calling",
+    "custName": "Sahil" ,
+    "custMob": 9910973644,
+    "escTYPE1": "Cancel Request" ,
+    "escTYPE2": "Delay in Dispatch" ,
+    "escTYPE3": "Delay from procurement",
+    "closingINF1": null ,
+    "closingINF2": null,
+    "followUpTime": new Date("2023-02-14T10:30:45"),
+    "createAt": new Date("2023-02-14") ,
+    "updatedAt": new Date()
+  }
+
+  NOTE: this Date thing is not working
+  
